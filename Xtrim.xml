@@ -1,8 +1,11 @@
-```xml
+xml
 <channel id="EcuadorTV">
   <display-name lang="es">Ecuador TV</display-name>
   <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Ecuador_TV_logo.svg/1200px-Ecuador_TV_logo.svg.png"/>
   <url>https://ecuadortv.ec/</url>
 </channel>
-
-
+<channel id="192TVCE.ec">
+  <display-name lang="es">Televicentro Ecuador EC</display-name>
+  <icon src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Televicentro_logo.png"/>
+  <url>https://www.televicentro.ec/</url>
+</channel>
