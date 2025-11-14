@@ -1,22 +1,22 @@
- <?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="EPG TVC Quito - Ejemplo">
-  <channel id="tvcquito.com.ec">
-    <display-name lang="es">TVC Quito</display-name>
-    <icon src="" />  <!-- https://www.ecured.cu/images/b/b8/TVC_Ecuador.jpg -->
-  </channel>
-  <programme start="20241115160000 -0500" stop="20241115170000 -0500" channel="tvcquito.com.ec">
-    <title lang="es">Noticias de la Tarde</title>
-    <desc lang="es">Las noticias más importantes de Quito y el Ecuador.</desc>
-    <category lang="es">Noticias</category>
-  </programme>
-  <programme start="20241115170000 -0500" stop="20241115180000 -0500" channel="tvcquito.com.ec">
-    <title lang="es">Telenovela: La Rosa </title>
-    <desc lang="es">Una historia de amor y drama .</desc>
-    <category lang="es">Telenovelas</category>
-  </programme>
-  <programme start="20241115180000 -0500" stop="20241115190000 -0500" channel="tvcquito.com.ec">
-    <title lang="es">Caso Cerrado</title>
-    <desc lang="es">La Dra. Ana María Polo resuelve conflictos y problemas legales.</desc>
-    <category lang="es">Entretenimiento</category>
-  </programme>
+    <channel id="tvcquito.com.ec">
+        <display-name lang="es">TVC Quito</display-name>
+        <icon src=""/>
+    </channel>
+    <programme start="20241115160000 -0500" stop="20241115170000 -0500" channel="tvcquito.com.ec">
+        <title lang="es">Noticias de la Tarde</title>
+        <desc lang="es">Las noticias más importantes de Quito y el Ecuador.</desc>
+        <category lang="es">Noticias</category>
+    </programme>
+    <programme start="20241115170000 -0500" stop="20241115180000 -0500" channel="tvcquito.com.ec">
+        <title lang="es">Telenovela: La Rosa </title>
+        <desc lang="es">Una historia de amor y drama.</desc>
+        <category lang="es">Telenovelas</category>
+    </programme>
+    <programme start="20241115180000 -0500" stop="20241115190000 -0500" channel="tvcquito.com.ec">
+        <title lang="es">Caso Cerrado</title>
+        <desc lang="es">La Dra. Ana María Polo resuelve conflictos y problemas legales.</desc>
+        <category lang="es">Entretenimiento</category>
+    </programme>
 </tv>
