@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="EPG Canal Uno Ecuador - Ejemplo">
+  <channel id="canaluno.com.ec">
+    <display-name lang="es">Canal Uno Ecuador</display-name>
+    <icon src="https://www.canaluno.com.ec/logo.png" />
+  </channel>
+  <programme start="20241115160000 -0500" stop="20241115170000 -0500" channel="canaluno.com.ec">
+    <title lang="es">Noticias de la Tarde</title>
+    <desc lang="es">Las noticias más importantes del día en Ecuador y el mundo.</desc>
+    <category lang="es">Noticias</category>
+  </programme>
+  <programme start="20241115170000 -0500" stop="20241115180000 -0500" channel="canaluno.com.ec">
+    <title lang="es">Telenovela: Corazón Indomable</title>
+    <desc lang="es">Una historia de amor y venganza en un entorno rural.</desc>
+    <category lang="es">Telenovelas</category>
+  </programme>
+  <programme start="20241115180000 -0500" stop="20241115190000 -0500" channel="canaluno.com.ec">
+    <title lang="es">Caso Cerrado</title>
+    <desc lang="es">La Dra. Ana María Polo resuelve conflictos y problemas legales.</desc>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+</tv>
