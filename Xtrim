@@ -1,22 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="EPG TVC Quito - Ejemplo">
-    <channel id="tvcquito.com.ec">
-        <display-name lang="es">TVC Quito</display-name>
-        <icon src=""/>
-    </channel>
-    <programme start="20241115160000 -0500" stop="20241115170000 -0500" channel="tvcquito.com.ec">
-        <title lang="es">Noticias de la Tarde</title>
-        <desc lang="es">Las noticias más importantes de Quito y el Ecuador.</desc>
-        <category lang="es">Noticias</category>
-    </programme>
-    <programme start="20241115170000 -0500" stop="20241115180000 -0500" channel="tvcquito.com.ec">
-        <title lang="es">Telenovela: La Rosa </title>
-        <desc lang="es">Una historia de amor y drama.</desc>
-        <category lang="es">Telenovelas</category>
-    </programme>
-    <programme start="20241115180000 -0500" stop="20241115190000 -0500" channel="tvcquito.com.ec">
-        <title lang="es">Caso Cerrado</title>
-        <desc lang="es">La Dra. Ana María Polo resuelve conflictos y problemas legales.</desc>
-        <category lang="es">Entretenimiento</category>
-    </programme>
+<tv generator-info-name="EPG Televicentro Ecuador">
+  <channel id="192TVCE.ec">
+    <display-name lang="es">Televicentro Ecuador</display-name>
+    <icon src=""/>
+  </channel>
+  <programme start="20241116160000 -0500" stop="20241116170000 -0500" channel="192TVCE.ec">
+    <title lang="es">Noticias de la Tarde</title>
+    <desc lang="es">Las noticias más importantes del Ecuador.</desc>
+    <category lang="es">Noticias</category>
+  </programme>
+  <programme start="20241116170000 -0500" stop="20241116180000 -0500" channel="192TVCE.ec">
+    <title lang="es">Telenovela: Corazón Indomable</title>
+    <desc lang="es">Una historia de amor y venganza.</desc>
+    <category lang="es">Telenovelas</category>
+  </programme>
+  <programme start="20241116180000 -0500" stop="20241116190000 -0500" channel="192TVCE.ec">
+    <title lang="es">Caso Cerrado</title>
+    <desc lang="es">La Dra. Polo resuelve conflictos legales.</desc>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20241116190000 -0500" stop="20241116200000 -0500" channel="192TVCE.ec">
+    <title lang="es">Deportes al Día</title>
+    <desc lang="es">Lo mejor del deporte nacional e internacional.</desc>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20241116200000 -0500" stop="20241116210000 -0500" channel="192TVCE.ec">
+    <title lang="es">Cine en Televicentro</title>
+    <desc lang="es">Disfruta de las mejores películas.</desc>
+    <category lang="es">Películas</category>
+  </programme>
 </tv>
