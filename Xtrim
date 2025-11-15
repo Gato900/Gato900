@@ -31,8 +31,8 @@
   </programme>
 </tv>
 
-<tv>
-  <canal id="UNO">
+
+  <?xmlcanal id="UNO">
     <display-name>UNO</display-name>
     <lcn>1</lcn>
   </canal>
@@ -95,5 +95,78 @@
     <titulo>UNO Ecuador 22:00-00:00</titulo>
     <descripcion>UNO Ecuador - Programación continua.</descripcion>
     <episode-num system="onscreen">UNO Ecuador</episode-num>
+  </programa>
+</tv>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<tv>
+  <canal id="OromarTV.ec">
+    <display-name>Oromar TV EC</display-name>
+    <lcn>26</lcn>
+  </canal>
+  <programa canal="OromarTV.ec" inicio="00.00" fin="02.00">
+    <titulo>Programa de Medianoche</titulo>
+    <descripcion>Repetición de programas destacados del día anterior.</descripcion>
+    <episode-num system="onscreen">Episodio 1</episode-num>
+  </programa>
+  <programa canal="OromarTV.ec" inicio="02.00" fin="04.00">
+    <titulo>Madrugada Musical</titulo>
+    <descripcion>Música variada para acompañar la noche.</descripcion>
+    <episode-num system="onscreen">Episodio 2</episode-num>
+  </programa>
+  <programa canal="OromarTV.ec" inicio="04.00" fin="06.00">
+    <titulo>Infomerciales</titulo>
+    <descripcion>Espacio dedicado a la promoción de productos y servicios.</descripcion>
+    <episode-num system="onscreen">Episodio 3</episode-num>
+  </programa>
+  <programa canal="OromarTV.ec" inicio="06.00" fin="08.00">
+    <titulo>Noticias de la Mañana</titulo>
+    <descripcion>Las noticias más importantes del Ecuador y el mundo.</descripcion>
+    <episode-num system="onscreen">Episodio 4</episode-num>
+  </programa>
+  <programa canal="OromarTV.ec" inicio="08.00" fin="10.00">
+    <titulo>Magazine Matutino</titulo>
+    <descripcion>Entretenimiento, entrevistas y consejos para empezar el día.</descripcion>
+    <episode-num system="onscreen">Episodio 5</episode-num>
+  </programa>
+    <programa canal="OromarTV.ec" inicio="10.00" fin="12.00">
+    <titulo>Serie de la Mañana</titulo>
+    <descripcion>Disfruta de nuestra serie de la mañana.</descripcion>
+    <episode-num system="onscreen">Episodio 6</episode-num>
+  </programa>
+  <programa canal="OromarTV.ec" inicio="12.00" fin="14.00">
+    <titulo>Telenovela</titulo>
+    <descripcion>Drama y pasión en cada episodio.</descripcion>
+    <episode-num system="onscreen">Episodio 7</episode-num>
+  </programa>
+  <programa canal="OromarTV.ec" inicio="14.00" fin="16.00">
+    <titulo>Programa de la Tarde</titulo>
+    <descripcion>Variedad de temas de interés.</descripcion>
+    <episode-num system="onscreen">Episodio 8</episode-num>
+  </programa>
+  <programa canal="OromarTV.ec" inicio="16.00" fin="18.00">
+    <titulo>Programa Infantil</titulo>
+    <descripcion>Entretenimiento para los más pequeños.</descripcion>
+    <episode-num system="onscreen">Episodio 9</episode-num>
+  </programa>
+  <programa canal="OromarTV.ec" inicio="18.00" fin="19.00">
+    <titulo>Noticias de la Tarde</titulo>
+    <descripcion>Noticias locales.</descripcion>
+    <episode-num system="onscreen">Episodio 10</episode-num>
+  </programa>
+  <programa canal="OromarTV.ec" inicio="19.00" fin="21.00">
+    <titulo>Noticias de la Noche</titulo>
+    <descripcion>Resumen de las noticias del día.</descripcion>
+    <episode-num system="onscreen">Episodio 11</episode-num>
+  </programa>
+  <programa canal="OromarTV.ec" inicio="21.00" fin="23.00">
+    <titulo>Película Estelar</titulo>
+    <descripcion>Disfruta de nuestra selección de películas.</descripcion>
+    <episode-num system="onscreen">Episodio 12</episode-num>
+  </programa>
+   <programa canal="OromarTV.ec" inicio="23.00" fin="23.59">
+    <titulo>Programa de Cierre</titulo>
+    <descripcion>Resumen de lo mejor del día.</descripcion>
+    <episode-num system="onscreen">Episodio 13</episode-num>
   </programa>
 </tv>
