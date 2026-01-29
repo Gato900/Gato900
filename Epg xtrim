@@ -28,7 +28,55 @@
   <programme start="20260130043000 -0500" stop="20260130070000 -0500" channel="canaluno"><title>Sono deportes</title></programme>
 
   
-  
+  <?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="EPG WuanPlus TV Ecuador">
+
+<channel id="wuanplus.ec">
+  <display-name>WuanPlus TV</display-name>
+</channel>
+
+<programme start="20260129173000 -0500" stop="20260129180000 -0500" channel="wuanplus.ec">
+  <title>Voa Documentales</title>
+</programme>
+
+<programme start="20260129180000 -0500" stop="20260129183000 -0500" channel="wuanplus.ec">
+  <title>Vivir En Armonía Con Ú...</title>
+</programme>
+
+<programme start="20260129183000 -0500" stop="20260129190000 -0500" channel="wuanplus.ec">
+  <title>De Ecuador Para El Mun...</title>
+</programme>
+
+<programme start="20260129190000 -0500" stop="20260129200000 -0500" channel="wuanplus.ec">
+  <title>Max Music con juan francisco arias</title>
+</programme>
+
+<programme start="20260129200000 -0500" stop="20260129220000 -0500" channel="wuanplus.ec">
+  <title>Vis A Vis Con Janet Hinostroza</title>
+</programme>
+
+<programme start="20260129220000 -0500" stop="20260129223000 -0500" channel="wuanplus.ec">
+  <title>De Corazón Con Dr. Mar...</title>
+</programme>
+
+<programme start="20260129223000 -0500" stop="20260129230000 -0500" channel="wuanplus.ec">
+  <title>La Entrevista Con Edua...</title>
+</programme>
+
+<programme start="20260130000000 -0500" stop="20260130003000 -0500" channel="wuanplus.ec">
+  <title>w Documentales</title>
+</programme>
+
+<programme start="20260130003000 -0500" stop="20260130010000 -0500" channel="wuanplus.ec">
+  <title>De Ecuador Para El Mun...</title>
+</programme>
+
+<programme start="20260130010000 -0500" stop="20260130012000 -0500" channel="wuanplus.ec">
+  <title>Comentario fabricio ve...</title>
+</programme>
+
+</tv>
+
   
 
   
