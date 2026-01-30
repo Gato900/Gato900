@@ -30,9 +30,9 @@
 
 
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="EPG "wuanplus TV Ecuador">
+<tv generator-info-name="EPG "Wuanplus TV Ecuador">
 
-  <channel id=wuanplus tv<
+  <channel id=wuanplustv<
     <display-name>Wuanplus TV</display-name>
   </channel>
 <!-- DIA 1 -->
