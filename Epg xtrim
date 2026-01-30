@@ -30,20 +30,20 @@
 
 
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="EPG Wuan+ TV Ecuador">
+<tv generator-info-name="EPG "wuanplus TV Ecuador">
 
-  <channel id="Wuan+<
-    <display-name>Wuan+</display-name>
+  <channel id=wuanplus tv<
+    <display-name>Wuanplus TV</display-name>
   </channel>
 <!-- DIA 1 -->
-<programme start="20260129173000 -0500" stop="20260129180000 -0500" channel="Wuan+"><title>Voa Documentales</title></programme>
-<programme start="20260129180000 -0500" stop="20260129183000 -0500" channel="Wuan+"><title>Vivir En Armonía Con Unidad</title></programme>
-<programme start="20260129183000 -0500" stop="20260129190000 -0500" channel="Wuan+"><title>De Ecuador Para El Mundo</title></programme>
-<programme start="20260129190000 -0500" stop="20260129200000 -0500" channel="Wuan+"><title>Max Music con Juan Francisco Arias</title></programme>
-<programme start="20260129200000 -0500" stop="20260129220000 -0500" channel="Wuan+"><title>Vis A Vis Con Janet Hinostroza</title></programme>
-<programme start="20260129220000 -0500" stop="20260129223000 -0500" channel="Wuan+"><title>De Corazón Con Doctor Mar</title></programme>
+<programme start="20260129173000 -0500" stop="20260129180000 -0500" channel="wuanplustv"><title>Voa Documentales</title></programme>
+<programme start="20260129180000 -0500" stop="20260129183000 -0500" channel="wuanplustv"><title>Vivir En Armonía Con Unidad</title></programme>
+<programme start="20260129183000 -0500" stop="20260129190000 -0500" channel="wuanplustv"><title>De Ecuador Para El Mundo</title></programme>
+<programme start="20260129190000 -0500" stop="20260129200000 -0500" channel="wuanplustv"><title>Max Music con Juan Francisco Arias</title></programme>
+<programme start="20260129200000 -0500" stop="20260129220000 -0500" channel="wuanplustv"><title>Vis A Vis Con Janet Hinostroza</title></programme>
+<programme start="20260129220000 -0500" stop="20260129223000 -0500" channel="wuanplustv"><title>De Corazón Con Doctor Mar</title></programme>
 <programme start="20260129223000 -0500" stop="20260129230000 -0500" channel="Wuan+"><title>La Entrevista Con Eduardo Andrade</title></programme>
-<programme start="20260130000000 -0500" stop="20260130003000 -0500" channel="Wuan+"><title>WuanPlus Documentales</title></programme>
-<programme start="20260130003000 -0500" stop="20260130010000 -0500" channel="Wuan+"><title>De Ecuador Para El Mundo</title></programme>
-<programme start="20260130010000 -0500" stop="20260130012000 -0500" channel="Wuan+"><title>Comentario con Fabricio Vega</title></programme> 
+<programme start="20260130000000 -0500" stop="20260130003000 -0500" channel="wuanplustv"><title>WuanPlus Documentales</title></programme>
+<programme start="20260130003000 -0500" stop="20260130010000 -0500" channel="wuanplustv""><title>De Ecuador Para El Mundo</title></programme>
+<programme start="20260130010000 -0500" stop="20260130012000 -0500" channel="wuanplustv"><title>Comentario con Fabricio Vega</title></programme> 
 
