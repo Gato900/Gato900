@@ -3,10 +3,10 @@
   <icon src="https://iptv-epg.org/logos/Ecuador/CanalUno.ec.png"/>
 </channel>
 <channel id="EcotelTV.ec">
-  <display-name>Ecotel TV</display-name>
+  <display-name>EC - Ecotel TV</display-name>
   <icon src="https://iptv-epg.org/logos/Ecuador/EcotelTV.ec.png"/>
 </channel>
 <channel id="KCHTV.ec">
-  <display-name>KCHTV</display-name>
+  <display-name>EC - KCHTV</display-name>
   <icon src="https://iptv-epg.org/logos/Ecuador/KCHTV.ec.png"/>
 </channel>
