@@ -6,3 +6,7 @@
   <display-name>Ecotel TV</display-name>
   <icon src="https://iptv-epg.org/logos/Ecuador/EcotelTV.ec.png"/>
 </channel>
+<channel id="KCHTV.ec">
+  <display-name>KCHTV</display-name>
+  <icon src="https://iptv-epg.org/logos/Ecuador/KCHTV.ec.png"/>
+</channel>
