@@ -2,3 +2,7 @@
   <display-name>EC - Canal Uno</display-name>
   <icon src="https://iptv-epg.org/logos/Ecuador/CanalUno.ec.png"/>
 </channel>
+<channel id="EcotelTV.ec">
+  <display-name>EC - Ecotel TV</display-name>
+  <icon src="https://iptv-epg.org/logos/Ecuador/EcotelTV.ec.png"/>
+</channel>
