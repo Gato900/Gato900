@@ -5,28 +5,28 @@
   <display-name>EC - Canal Uno</display-name>
   <icon src="https://iptv-epg.org/logos/Ecuador/CanalUno.ec.png"/>
 </channel>
-
-  <!-- DIA 1 -->
-  <programme start="20260129070000 -0500" stop="20260129080000 -0500" channel="canaluno"><title>Así está la mañana</title></programme>
-  <programme start="20260129080000 -0500" stop="20260129090000 -0500" channel="canaluno"><title>noticiero  sonorama</title></programme>
-  <programme start="20260129090000 -0500" stop="20260129093000 -0500" channel="canaluno"><title>Planeta futbol</title></programme>
-  <programme start="20260129093000 -0500" stop="20260129100000 -0500" channel="canaluno"><title>Promo tv</title></programme>
-  <programme start="20260129100000 -0500" stop="20260129103000 -0500" channel="canaluno"><title>Alfin solo</title></programme>
-  <programme start="20260129103000 -0500" stop="20260129113000 -0500" channel="canaluno"><title>Evento deportivo</title></programme>
-  <programme start="20260129113000 -0500" stop="20260129120000 -0500" channel="canaluno"><title>Promo tv</title></programme>
-  <programme start="20260129120000 -0500" stop="20260129130000 -0500" channel="canaluno"><title>Aquí y Allá</title></programme>
-  <programme start="20260129130000 -0500" stop="20260129140000 -0500" channel="canaluno"><title>Evento Deportivo</title></programme>
-  <programme start="20260129140000 -0500" stop="20260129150000 -0500" channel="canaluno"><title>Artista Marcial</title></programme>
-  <programme start="20260129150000 -0500" stop="20260129160000 -0500" channel="canaluno"><title>expedicionarios</title></programme>
-  <programme start="20260129160000 -0500" stop="20260129180000 -0500" channel="canaluno"><title>Calientitos</title></programme>
-  <programme start="20260129180000 -0500" stop="20260129190000 -0500" channel="canaluno"><title>Promo tv</title></programme>
-  <programme start="20260129190000 -0500" stop="20260129200000 -0500" channel="canaluno"><title>Videos musicales</title></programme>
-  <programme start="20260129200000 -0500" stop="20260129203000 -0500" channel="canaluno"><title>Promo tv</title></programme>
-  <programme start="20260129203000 -0500" stop="20260130000000 -0500" channel="canaluno"><title>Noticiero Sonorama</title></programme>
-  <programme start="20260130000000 -0500" stop="20260130010000 -0500" channel="canaluno"><title>Videos musicales</title></programme>
-  <programme start="20260130010000 -0500" stop="20260130023000 -0500" channel="canaluno"><title>Noticiero en la comunidad</title></programme>
-  <programme start="20260130023000 -0500" stop="20260130043000 -0500" channel="canaluno"><title>sin medias tintas</title></programme>
-  <programme start="20260130043000 -0500" stop="20260130070000 -0500" channel="canaluno"><title>Sono deportes</title></programme>
+<!-- DIA 1 -->
+<programme start="20300129070000 -0500" stop="20300129080000 -0500" channel="canaluno"><title>Así está la mañana</title></programme>
+<programme start="20300129080000 -0500" stop="20300129090000 -0500" channel="canaluno"><title>Noticiero Sonorama</title></programme>
+<programme start="20300129090000 -0500" stop="20300129093000 -0500" channel="canaluno"><title>Planeta futbol</title></programme>
+<programme start="20300129093000 -0500" stop="20300129100000 -0500" channel="canaluno"><title>Promo TV</title></programme>
+<programme start="20300129100000 -0500" stop="20300129103000 -0500" channel="canaluno"><title>Alfin solo</title></programme>
+<programme start="20300129103000 -0500" stop="20300129113000 -0500" channel="canaluno"><title>Evento deportivo</title></programme>
+<programme start="20300129113000 -0500" stop="20300129120000 -0500" channel="canaluno"><title>Promo TV</title></programme>
+<programme start="20300129120000 -0500" stop="20300129130000 -0500" channel="canaluno"><title>Aquí y Allá</title></programme>
+<programme start="20300129130000 -0500" stop="20300129140000 -0500" channel="canaluno"><title>Evento Deportivo</title></programme>
+<programme start="20300129140000 -0500" stop="20300129150000 -0500" channel="canaluno"><title>Artista Marcial</title></programme>
+<programme start="20300129150000 -0500" stop="20300129160000 -0500" channel="canaluno"><title>Expedicionarios</title></programme>
+<programme start="20300129160000 -0500" stop="20300129180000 -0500" channel="canaluno"><title>Calientitos</title></programme>
+<programme start="20300129180000 -0500" stop="20300129190000 -0500" channel="canaluno"><title>Promo TV</title></programme>
+<programme start="20300129190000 -0500" stop="20300129200000 -0500" channel="canaluno"><title>Videos musicales</title></programme>
+<programme start="20300129200000 -0500" stop="20300129203000 -0500" channel="canaluno"><title>Promo TV</title></programme>
+<programme start="20300129203000 -0500" stop="20300130000000 -0500" channel="canaluno"><title>Noticiero Sonorama</title></programme>
+<programme start="20300130000000 -0500" stop="20300130010000 -0500" channel="canaluno"><title>Videos musicales</title></programme>
+<programme start="20300130010000 -0500" stop="20300130023000 -0500" channel="canaluno"><title>Noticiero en la comunidad</title></programme>
+<programme start="20300130023000 -0500" stop="20300130043000 -0500" channel="canaluno"><title>Sin medias tintas</title></programme>
+<programme start="20300130043000 -0500" stop="20300130070000 -0500" channel="canaluno"><title>Sono deportes</title></programme>
+  
 
 
 
